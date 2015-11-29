@@ -9,7 +9,7 @@
         <!--Hosting App View Controller-->
         <scene sceneID="fbE-cB-Iyw">
             <objects>
-                <viewController id="nAo-DR-8Pl" customClass="HostingAppViewController" customModule="HostingApp" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="nAo-DR-8Pl" customClass="HostingAppViewController" customModule="Chuvash_Kbd" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Bpu-v8-xYb"/>
                         <viewControllerLayoutGuide type="bottom" id="P06-La-EKF"/>
