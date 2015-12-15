@@ -18,6 +18,14 @@ The work was documented in a google document that is now saved as a pdf:
 
 - [Chuvash Keyboard Layout for iOS - Early Work](cv-kbd-ios-evolutions-early-collab.pdf) (the document is mostly in Chuvash)
 
+### People who worked on it
+- me, @mirontoli
+- Chuck Smith, @ludisto, Esperantisto, successful iOS developer. 
+- Alexander Blinov, @alparuh, Leader of Haval - Chuvash culture organization
+- Astahar Plotnikov, @astakhar, Founder of the biggest Chuvash internet portal - chuvash.org, Member of Chuvash Language Board
+- Ivan Ivanov, @Tile, Chuvash activist, done a lot for promoting Chuvash on internet and on site.
+- Gennady Degtyaryov, Chuvash professor, philologist, Member of Chuvash Language Board
+
 # Evolution 5
 
 TBD
