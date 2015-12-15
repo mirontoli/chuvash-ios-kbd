@@ -8,7 +8,10 @@ For documentation and discussion I created a page that describe the different va
 
 This keyboard layout is based on @archagon's [tasty-imitation-keyboard](https://github.com/archagon/tasty-imitation-keyboard) More details about the custom native-looking keyboard are on that repository.
 
+## Chuvash letters
+It is important to understand what letters are used most and what patterns are. 
 
+![Chuvash letters usage](chuvash-letters-usage?raw=true)
 
 ## License
 
