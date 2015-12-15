@@ -10,6 +10,14 @@ Russian letters that are seldom used are remove (Б, Г...) They are going to be
 
 TBD
 
+## Early work - 2014
+
+In 2014 we did a great investment in analyzing the feasibility, building prototypes, discussing and analyzing Chuvash letters with the community and Chuvash philologists. 
+
+The work was documented in a google document that is now saved as a pdf:
+
+- [Chuvash Keyboard Layout for iOS - Early Work](cv-kbd-ios-evolutions-early-collab.pdf) (the document is mostly in Chuvash)
+
 # Evolution 5
 
 TBD
@@ -22,7 +30,7 @@ TBD
 
 TBD
 
-# Evolution 2
+# Evolution 
 
 TBD
 
