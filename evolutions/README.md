@@ -4,7 +4,7 @@ The purpose of this page is to document the process and provide material for dis
 
 # Evolution 7
 Russian letters that are seldom used are remove (Б, Г...) They are going to be moved to the second and third screens.
-![Evolution 7](evolutions/cv-kbd-ios-evolution-07.png?raw=true)
+![Evolution 7](cv-kbd-ios-evolution-07.png?raw=true)
 
 # Evolution 6
 
