@@ -220,7 +220,7 @@ class ForwardingView: UIView {
         if let touches = touches {
             for obj in touches {
                 if let touch = obj as? UITouch {
-                    var view = self.touchToView[touch]
+                    let view = self.touchToView[touch]
                     
                     self.handleControl(view, controlEvent: .TouchCancel)
                     

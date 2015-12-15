@@ -779,7 +779,7 @@ class KeyboardLayout: NSObject, KeyboardKeyProtocol {
             
             let mostKeysInRow: Int = {
                 var currentMax: Int = 0
-                for (i, row) in page.rows.enumerate() {
+                for (_, row) in page.rows.enumerate() {
                     currentMax = max(currentMax, row.count)
                 }
                 return currentMax
@@ -1010,7 +1010,7 @@ class KeyboardLayout: NSObject, KeyboardKeyProtocol {
         
         let popupWidth = key.bounds.width + self.layoutConstants.popupWidthIncrement
         let popupHeight = totalHeight - self.layoutConstants.popupGap - key.bounds.height
-        let popupCenterY = 0
+        //let popupCenterY = 0
         
         return CGRectMake((key.bounds.width - popupWidth) / CGFloat(2), -popupHeight - self.layoutConstants.popupGap, popupWidth, popupHeight)
     }

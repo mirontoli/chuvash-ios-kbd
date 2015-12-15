@@ -17,10 +17,13 @@ class CatboardBanner: ExtraView {
     
     var catSwitch: UISwitch = UISwitch()
     var catLabel: UILabel = UILabel()
+    var orgLabel: UILabel = UILabel()
     
     required init(globalColors: GlobalColors.Type?, darkMode: Bool, solidColorMode: Bool) {
         super.init(globalColors: globalColors, darkMode: darkMode, solidColorMode: solidColorMode)
         
+        orgLabel.text = "Хавал"
+        self.addSubview(self.orgLabel)
         self.addSubview(self.catSwitch)
         self.addSubview(self.catLabel)
         
@@ -41,9 +44,12 @@ class CatboardBanner: ExtraView {
     
     override func layoutSubviews() {
         super.layoutSubviews()
-
+        
+        self.orgLabel.center = self.center
+        self.orgLabel.sizeToFit()
         self.catSwitch.center = self.center
         self.catLabel.center = self.center
+        self.orgLabel.frame.origin = CGPointMake(self.catSwitch.frame.origin.x - self.orgLabel.frame.width - 8, self.orgLabel.frame.origin.y)
         self.catLabel.frame.origin = CGPointMake(self.catSwitch.frame.origin.x + self.catSwitch.frame.width + 8, self.catLabel.frame.origin.y)
     }
     
@@ -54,11 +60,11 @@ class CatboardBanner: ExtraView {
     
     func updateAppearance() {
         if self.catSwitch.on {
-            self.catLabel.text = "😺"
+            self.catLabel.text = "Haval"
             self.catLabel.alpha = 1
         }
         else {
-            self.catLabel.text = "🐱"
+            self.catLabel.text = "Хавал"
             self.catLabel.alpha = 0.5
         }
         
