@@ -22,7 +22,7 @@ The work was documented in a google document that is now saved as a pdf:
 - me, @mirontoli
 - Chuck Smith, @ludisto, Esperantisto, successful iOS developer. 
 - Alexander Blinov, @alparuh, Leader of Haval - Chuvash culture organization
-- Astahar Plotnikov, @astakhar, Founder of the biggest Chuvash internet portal - chuvash.org, Member of Chuvash Language Board
+- Astahar Plotnikov, @astahar, Founder of the biggest Chuvash internet portal - chuvash.org, Member of Chuvash Language Board
 - Ivan Ivanov, @Tile, Chuvash activist, done a lot for promoting Chuvash on internet and on site.
 - Gennady Degtyaryov, Chuvash professor, philologist, Member of Chuvash Language Board
 
