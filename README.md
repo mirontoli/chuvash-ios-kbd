@@ -11,7 +11,7 @@ This keyboard layout is based on @archagon's [tasty-imitation-keyboard](https://
 ## Chuvash letters
 It is important to understand what letters are used most and what patterns are. 
 
-![Chuvash letters usage](chuvash-letters-usage?raw=true)
+![Chuvash letters usage](chuvash-letters-usage.png?raw=true)
 
 ## License
 
